@@ -12,7 +12,7 @@
 - Provide suggestion to improve the design
 - Create a UX mockup to improve the design
 
-[Link task 1]https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/Task%201
+Link Task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/Task%201
 
 ## Task 2
 - interview an application
