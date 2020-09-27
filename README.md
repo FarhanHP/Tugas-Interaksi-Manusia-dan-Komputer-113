@@ -18,3 +18,5 @@ Link Task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-11
 - interview an application
 designer (desktop/web/mobile) that have long term
 standing in UX design or have rich design portfolio
+
+Link task 2: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/Task%202
