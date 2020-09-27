@@ -24,7 +24,7 @@ Berdasarkan permasalahan tersebut, sudah jelas masukan yang tepat adalah dengan 
 
 ![alt text](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%201/contoh%20bridge%20ideal.jpg?raw=true)
 
-## Mockup UX untuk 
+## Mockup UX untuk desain yang lebih baik
 
 Karena dari sisi desain permasalahan ini hanya ketidakadaannya lampu indikator pada Bridge, serta keterbatasan pengetahuan penulis tentang kapal, maka penulis membuat mockup untuk mengoreksi UX pada Bridge MS Herald of Free Enterprise dan menekankan pada lampu indikator pintu lambung kapal, serta pilihan warna sinyal intiutif dan peletakan di daerah yang sering dilihat oleh kru kapal.
 
