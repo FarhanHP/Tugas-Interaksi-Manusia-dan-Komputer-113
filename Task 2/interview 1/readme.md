@@ -17,6 +17,19 @@ Desain - desain yang pernah dibuat Kak Eric dapat dilihat pada tautan ini: https
 ### Ask whether he/she had a habit to consider control design (the interaction parts), in case yes give proof
 Bagi Kak Eric, seorang desainer UI/UX untuk mengambil tindakan yang berdampak pada User Experience. Namun, terkadang, hal tersebut terhambat karena beberapa alasan tertentu, seperti klien yang bebal, akan bermasalah pada divisi lain, atau hal lainnya. Sebagai contoh pada aplikasi Fore Coffee. Pada awalnya, Kak Eric mendesain tombol "Ambil Sendiri" dengan pertimbangan banyak pelanggan Fore Coffee lebih cenderung untuk pemesanan Dine In. Namun, karena keputusan perusahaan dan situasi pandemi tombol tersebut berubah menjadi "delivery".
 
+## Evaluasi salinan desain
+
+Karena desain yang diberikan cukup banyak, maka kami hanya mencoba mengevaluasi satu desain pada aplikasi Fore Coffee yang dapat diunduh di play store.
+
+
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/home.jpg)
+tampilan awal setelah membuka aplikasi.
+
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/menu.jpg)
+tampilan menu memilih pesanan kopi.
+
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/pilih-gerai.jpg)
+tampialn memilih gerai Fore Coffee.
 
 ## Bukti wawancara:
 
