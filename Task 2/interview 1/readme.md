@@ -15,7 +15,7 @@ Dalam hal mendesain, Kak Eric mendeskripsikan dirinya bukan lah orang yang teori
 Desain - desain yang pernah dibuat Kak Eric dapat dilihat pada tautan ini: https://xplodedbox.com/portfolio/. Adapun pada tautan tersebut hanya menyimpan sebagian besar desain yang pernah dibuat Kak Eric, tetapi tidak semua, apalagi ada desain yang dianggap rahasia karena permintaan klien. 
 
 ### Ask whether he/she had a habit to consider control design (the interaction parts), in case yes give proof
-Bagi Kak Eric, seorang desainer UI/UX untuk mengambil tindakan yang berdampak pada User Experience. Namun, terkadang, hal tersebut terhambat karena beberapa alasan tertentu, seperti klien yang bebal, karena akan berdampak pada divisi lain, atau hal lainnya. Sebagai contoh pada aplikasi Fore Coffee. Pada awalnya, Kak Eric mendesain tombol "Ambil Sendiri" dengan pertimbangan banyak pelanggan Fore Coffee lebih cenderung untuk pemesanan Dine In. Namun, karena keputusan perusahaan dan situasi pandemi tombol tersebut berubah menjadi "delivery".
+Bagi Kak Eric, seorang desainer UI/UX untuk mengambil tindakan yang berdampak pada User Experience. Namun, terkadang, hal tersebut terhambat karena beberapa alasan tertentu, seperti klien yang bebal, akan bermasalah pada divisi lain, atau hal lainnya. Sebagai contoh pada aplikasi Fore Coffee. Pada awalnya, Kak Eric mendesain tombol "Ambil Sendiri" dengan pertimbangan banyak pelanggan Fore Coffee lebih cenderung untuk pemesanan Dine In. Namun, karena keputusan perusahaan dan situasi pandemi tombol tersebut berubah menjadi "delivery".
 
 
 ## Bukti wawancara:
