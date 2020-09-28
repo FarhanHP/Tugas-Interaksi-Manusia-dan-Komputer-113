@@ -21,15 +21,25 @@ Bagi Kak Eric, seorang desainer UI/UX untuk mengambil tindakan yang berdampak pa
 
 Karena desain yang diberikan cukup banyak, maka kami hanya mencoba mengevaluasi satu desain pada aplikasi Fore Coffee yang dapat diunduh di play store.
 
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/home.jpeg)
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/home.jpg)
 tampilan awal setelah membuka aplikasi.
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/menu.jpg)
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/menu.jpeg)
+
 tampilan menu memilih pesanan kopi.
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/pilih-gerai.jpg)
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/pilih%20gerai.jpeg)
+
 tampialn memilih gerai Fore Coffee.
+
+### evaluasi:
+Menurut kelompok kami desain yang dibuat Kak Eric pada aplikasi Fore Coffee sudah bagus, mulai dari pemilihan warna yang sesuai dengan brand Fore Coffee yakni hijau dan putih, serta desain yang nyaman untuk dilihat layaknya image pada kedai kopi pada umumnya yang tidak hanya menjual rasa tetapi juga menjual suasana tempat yang nyaman. Namun, ada dua hal kecil yang menurut kami cukup menganggu. Yang pertama adalah, placeholder pada kolom pencarian di halaman pemilihan gerai. Sebenarnya masalah ini cukup kecil, tetapi sebagai pengguna, hal tersebut cukup menggangu karena warnanya yang hitam pekat seolah - olah kolom pencarian tersebut sudah diisi teks. Yang kedua, menurut kami ini cukup krusial yakni tidak adanya pemberitahuan untuk menyalakan GPS layaknya aplikasi yang membutuhkan lokasi terkini pengguna seperti halnya Gojek atau Grab. 
+
+### koreksi:
+berikut adalah mockup koreksi yang kami sudah buat, tidak ada perubahan besar hanya perubahan kecil sesuai permasalahan yang sudah dibahas sebelumnya.
+
+![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/revisi%20mockup.jpeg)
 
 ## Bukti wawancara:
 
