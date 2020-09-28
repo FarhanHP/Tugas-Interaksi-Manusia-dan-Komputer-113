@@ -1,4 +1,4 @@
-# Narasumber 1: 
+# Narasumber: 
  ![Foto Petrus Eric](https://media-exp1.licdn.com/dms/image/C5603AQEazOK9paYa2Q/profile-displayphoto-shrink_200_200/0?e=1606953600&v=beta&t=v2Mo1h8srZi8e51arlOcRIys1_tDFHYmS3eZMRXDlo0)
 
 - Nama                  : Petrus Eric
