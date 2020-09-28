@@ -2,7 +2,7 @@
 
 ## Team D
 - Farhan Herdian P (1313618030)
-- Aldian Asmara
+- Aldian Asmara (1313618032)
 - Tantyo Nurwahyu T (1313618004)
 
 ## Task 1
