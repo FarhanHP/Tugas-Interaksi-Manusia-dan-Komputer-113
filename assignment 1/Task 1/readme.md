@@ -1,6 +1,6 @@
 # Tragedi MS Herald of Free Enterprise (1987)
 
-![alt text](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%201/Herald_of_Free_Enterprise.jpg?raw=true)
+![alt text](Herald_of_Free_Enterprise.jpg)
 
 Penampakan kapal ferri MS Herald of Free Enterprise
 
@@ -10,7 +10,7 @@ Pada Maret 1987. Kapal ferri MS Herald of Free Enterprise terbalik setelah menin
 
 Terdapat dua alasan mengapa kru bisa lupa menutup lambung kapal. Yang pertama adalah kelalaian kru yang bertugas untuk menutup pintu lambung kapal yang terletak di dek G. Mark Stanley, adalah seorang asisten Boatswain (sebuah posisi yang bertanggung jawab terhadap dek kapal) tertidur setelah lelah membersihkan dek G yang juga merupakan tempat mobil parkir. Ia tidak mendengar suara klakson kapal yang menandakan akan berangkat. Umumnya kru harus menutup pintu lambung kapal tepat setelah ikatan kapal (mooring) dilepas untuk berangkat. Selain itu juga, Leslie Sabel, yang merupakan seorang First Officer yang bertanggung jawab untuk bersiaga di dek G untuk memastikan pintu lambung kapal tertutup juga tidak bersiaga di dek G karena ada urusan lain di Bridge (tempat kapal dikendalikan) dan berfikir bahwa ada Stanley yang akan menutup pintu lambung kapal. Terence Ayling yang merupakan seorang Boatswain, yang menurut pengadilan, merupakan kru terakhir di dek G juga tidak menutup pintu lambung dengan alasan itu bukan tugasnya. Yang kedua adalah tidak adanya indikator lampu yang menyatakan pintu lambung kapal sudah tertutup atau tidak pada Bridge sehingga Kapten Kapal David Lewry tidak tahu bahwa pintu lambung kapal tetap terbuka.
 
-![alt text](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%201/bow%20door.jpg?raw=true)
+![alt text](bow%20door.jpg)
 
 ilustrasi pintu lambung kapal
 
@@ -22,13 +22,13 @@ Yang kami tekankan pada insiden ini adalah kesalahan desain pada kapal, khususny
 
 Berdasarkan permasalahan tersebut, sudah jelas masukan yang tepat adalah dengan menambahkan lampu indikator pintu lambung pada Bridge. Desain Bridge yang menurut kami ideal adalah Bridge yang memiliki lampu indikator yang memadai, termasuk tanda warna yang intiutif seperti warna hijau yang menandakan pintu lambung terbuka dan warna merah menandakan pintu lambung tertutup. Selain itu juga, letak lampu indikator tersebut harus diletakan di daerah yang sering dilihat kru kapal yang bertugas di Bridge, salah satunya adalah tepat di atas setir kapal.
 
-![alt text](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%201/contoh%20bridge%20ideal.jpg?raw=true)
+![alt text](contoh%20bridge%20ideal.jpg)
 
 ## Mockup UX untuk desain yang lebih baik
 
 Karena dari sisi desain permasalahan ini hanya ketidakadaannya lampu indikator pada Bridge, serta keterbatasan pengetahuan penulis tentang kapal, maka penulis membuat mockup untuk mengoreksi UX pada Bridge MS Herald of Free Enterprise dan menekankan pada lampu indikator pintu lambung kapal, serta pilihan warna sinyal intiutif dan peletakan di daerah yang sering dilihat oleh kru kapal.
 
-![alt text](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%201/mockup%20bridge.png?raw=true)
+![alt text](mockup%20bridge.png)
 
 ## referensi:
 - Jorgensen, Per. 2017. *What are some examples of bad design that killed someone?*. Diakses dari: https://www.quora.com/What-are-some-examples-of-bad-design-that-killed-someone#BUiFz. (27 September 2020)
