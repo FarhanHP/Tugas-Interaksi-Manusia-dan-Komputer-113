@@ -14,14 +14,14 @@
 - Provide suggestion to improve the design
 - Create a UX mockup to improve the design
 
-Link Task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/Task%201
+Link Task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%201/Task%201
 
 ### Task 2
 - interview an application
 designer (desktop/web/mobile) that have long term
 standing in UX design or have rich design portfolio
 
-Link task 2: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/Task%202
+Link task 2: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%201/Task%202
 
 ## Assignment 2
 ![Gambar aplikasi](https://lh3.googleusercontent.com/jqOnrE0QXqOYv222953H1nE8AU11tlQw9HcD2k63EEeNpUlF_9hh8L_e2pNTy6raNVk=s180)
