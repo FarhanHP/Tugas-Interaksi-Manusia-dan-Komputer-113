@@ -21,15 +21,15 @@ Bagi Kak Eric, seorang desainer UI/UX untuk mengambil tindakan yang berdampak pa
 
 Karena desain yang diberikan cukup banyak, maka kami hanya mencoba mengevaluasi satu desain pada aplikasi Fore Coffee yang dapat diunduh di play store.
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/home.jpeg)
+![](home.jpeg)
 
 tampilan awal setelah membuka aplikasi.
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/menu.jpeg)
+![](menu.jpeg)
 
 tampilan menu memilih pesanan kopi.
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/pilih%20gerai.jpeg)
+![](pilih%20gerai.jpeg)
 
 tampialn memilih gerai Fore Coffee.
 
@@ -39,16 +39,16 @@ Menurut kelompok kami desain yang dibuat Kak Eric pada aplikasi Fore Coffee suda
 ### koreksi:
 berikut adalah mockup koreksi yang kami sudah buat, tidak ada perubahan besar hanya perubahan kecil sesuai permasalahan yang sudah dibahas sebelumnya.
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/revisi%20mockup.jpeg)
+![](revisi%20mockup.jpeg)
 
 ## Bukti wawancara:
 
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview1.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview2.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview3.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview4.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview5.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview6.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview7.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview8.jpg)
-![](https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/Task%202/interview%201/interview9.jpg)
+![](interview1.jpg)
+![](interview2.jpg)
+![](interview3.jpg)
+![](interview4.jpg)
+![](interview5.jpg)
+![](interview6.jpg)
+![](interview7.jpg)
+![](interview8.jpg)
+![](interview9.jpg)
