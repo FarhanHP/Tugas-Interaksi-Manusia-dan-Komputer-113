@@ -9,7 +9,6 @@ Secara tampilan, aplikasi ini cukup sederhana, tidak jelek, namun juga tidak ter
 - Pemisahan yang berlebihan, yakni bagian yang hanya memiliki isi yang sedikit dan memiliki topik yang sama dipisahkan ke dalam halaman yang berbeda. Hal ini sangat merepotkan, sebab jika ingin melihat informasi lain harus menekan tombol "kembali" dan memilih link yang ingin dibuka
 - Desain yang monoton dan membosankan. Ini akan berdampak pada kepuasan pengguna dalam menggunakan aplikasi
 - Tidak ada filter pada konten yang berbentuk list. Hal ini akan sangat merepotkan jika ingin membuka konten tertentu harus "scrolling" terlebih dahulu dan melihat judul satu persatu untuk mendapatkan konten yang diinginkan. Sebagai contoh, pada pilihan "Rekaman Kajian" 
-- Terlalu banyak "whitespace" yang tidak perlu pada konten sehingga memberikan kesan layar sempit pada aplikasi. Hal ini akan berakibat pada kenyamanan pengguna, karena "whitespace" tersebut dapat dimanfaatkan untuk memperbesar ukuran font, ataupun gambar serta mengurangi "scrolling"
 - Desain yang kurang intiutif sehingga banyak tulisan penjelasan pada aplikasi. Hal ini akan berdampak pada keindahan
 
 ## Pointed out the flaw in interaction control
