@@ -38,7 +38,7 @@ and interaction control
 - The output of this task is key use cases, key activity diagrams, and
 narration
 
-Link task 1: 
+Link task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/assignment%202/task%201/readme.md
 
 ### Task 2: 
 
