@@ -21,10 +21,12 @@ Terdapat beberapa kecacatan interaction control pada aplikasi ini, yakni:
 
 ## Identify Key business use cases
 
-Sebenarnya banyak sekali business use case yang ada pada aplikasi ini, tetapi kami hanya memilih beberapa business use case utama. Landasan mentukan suatu use case dianggap use case utama, dilihat dari sisi relevansi dan tidak memiliki masalah, Yakni:
+Sebenarnya banyak sekali business use case yang ada pada aplikasi ini, tetapi kami hanya memilih beberapa business use case utama. Landasan mentukan suatu use case dianggap use case utama, dilihat dari sisi relevansi dan tidak memiliki masalah yang terlalu serius, Yakni:
 - melihat berita
 - melihat catatan kajian
 - membuat pertanyaan untuk ustad
+
+Sebenarnya kami menemukan use case yang jauh lebih penting seperti konfirmasi donasi dan registrasi tabungan qurban, tetapi karena kedua fitur tersebut tidak dapat kami perhatikan lebih lanjut baik karena kendala melibatkan uang sungguhan, ataupun crash maka kami memutuskan untuk tidak memasukan use case tersebut karena kekurangan informasi.
 
 ## Activity Diagrams
 
