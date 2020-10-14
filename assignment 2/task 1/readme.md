@@ -1,6 +1,6 @@
 # DKM Al Barokah
 
-Aplikasi yang kami ambil adalah DKM Al Barokah yang dapat dilihat pada tautan berikut: https://play.google.com/store/apps/details?id=com.dkmalbarokah.mab. DKM Al Barokah adalah aplikasi android yang sistem informasi pada masjid Al Barokah yang terletak di Cimahi, Jawa Barat. Walaupun nama aplikasinya terdapat tulisan “DKM” aplikasi ini tidak hanya terbatas untuk anggota DKM Al Barokah saja, tetapi juga untuk orang lain yang tertarik untuk mengetahui atau mengikuti kegiatan yang ada di masjid Al Barokah. Banyak fitur yang ditawarkan pada aplikasi ini, seperti menampilkan informasi dasar masjid Al Barokah, catatan kajian, video ceramah, tabungan qurban, donasi, laporan uang kas masjid Al Barokah, dll.
+Aplikasi yang kami ambil adalah DKM Al Barokah yang dapat dilihat pada tautan berikut: https://play.google.com/store/apps/details?id=com.dkmalbarokah.mab. DKM Al Barokah adalah sistem informasi berbasis android pada masjid Al Barokah yang terletak di Cimahi, Jawa Barat. Walaupun nama aplikasinya terdapat tulisan “DKM” aplikasi ini tidak hanya terbatas untuk anggota DKM Al Barokah saja, tetapi juga untuk orang lain yang tertarik untuk mengetahui atau mengikuti kegiatan yang ada di masjid Al Barokah. Banyak fitur yang ditawarkan pada aplikasi ini, seperti menampilkan informasi dasar masjid Al Barokah, catatan kajian, video ceramah, tabungan qurban, donasi, laporan uang kas masjid Al Barokah, dll.
 
 ## Give reasoning why it isn’t pleasant or cumbersome to use
 
