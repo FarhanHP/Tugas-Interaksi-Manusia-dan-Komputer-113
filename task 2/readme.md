@@ -25,7 +25,7 @@ Link: https://www.youtube.com/watch?v=k2Qk4EbRDjY
 
 Two persons from your team are to works on competing design equipped with material design principle.
 
-Link: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%202/task%202/competing%20design
+Link: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/hw2/task%202/competing%20design
 
 ## Day 3 (Selasa, 13 Oktober 2020)
 
