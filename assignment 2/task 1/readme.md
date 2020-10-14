@@ -38,7 +38,8 @@ Aplikasi ini memiliki banyak use case yaitu:
 Dari sekian use case tersebut terdapat beberapa business use case utama. Landasan mentukan suatu use case dianggap use case utama, dilihat dari sisi relevansi, kegunaan dan tidak memiliki masalah yang terlalu serius, Yakni:
 - melihat berita
 - melihat catatan kajian
-- membuat dan melihat pertanyaan untuk ustad
+- membuat pertanyaan untuk ustad
+- melihat pertanyaan untuk ustad
 
 Sebenarnya kami menemukan use case yang jauh lebih penting seperti konfirmasi donasi dan registrasi tabungan qurban, tetapi karena kedua fitur tersebut tidak dapat kami perhatikan lebih lanjut baik karena kendala melibatkan uang sungguhan, ataupun crash maka kami memutuskan untuk tidak memasukan use case tersebut karena kekurangan informasi.
 
@@ -49,3 +50,5 @@ Sebenarnya kami menemukan use case yang jauh lebih penting seperti konfirmasi do
 ![use case melihat catatan kajian](melihat%20catatan%20kajian.png)
 
 ![use case membuat pertanyaan untuk ustad](membuat%20pertanyaan%20untuk%20ustad.png)
+
+![use case melihat pertanyaan untuk ustad](melihat%20pertanyaan%20untuk%20ustad.png)
