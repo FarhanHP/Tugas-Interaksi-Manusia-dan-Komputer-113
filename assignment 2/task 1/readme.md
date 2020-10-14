@@ -21,7 +21,21 @@ Terdapat beberapa kecacatan interaction control pada aplikasi ini, yakni:
 
 ## Identify Key business use cases
 
-Sebenarnya banyak sekali business use case yang ada pada aplikasi ini, tetapi kami hanya memilih beberapa business use case utama. Landasan mentukan suatu use case dianggap use case utama, dilihat dari sisi relevansi dan tidak memiliki masalah yang terlalu serius, Yakni:
+Aplikasi ini memiliki banyak use case yaitu:
+- Melihat laporan kas masjid
+- Melihat dan mendaftar tabungan qurban
+- Konfirmasi donasi
+- Melihat rekaman kajian
+- Melihat catatan ngaji
+- Melihat dan mengajukan pertanyaan ke ustad
+- Melihat jadwal kegiatan di masjid
+- Menyediakan ataupun mengajukan Baitul Mal Wa Tamwil
+- Melihat berita
+- Melihat catatan kajian
+- Mendengar pembacaan quran
+- Melihat profil masjid
+
+Dari sekian use case tersebut terdapat beberapa business use case utama. Landasan mentukan suatu use case dianggap use case utama, dilihat dari sisi relevansi, kegunaan dan tidak memiliki masalah yang terlalu serius, Yakni:
 - melihat berita
 - melihat catatan kajian
 - membuat dan melihat pertanyaan untuk ustad
