@@ -22,24 +22,3 @@ designer (desktop/web/mobile) that have long term
 standing in UX design or have rich design portfolio
 
 Link task 2: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%201/Task%202
-
-## Assignment 2
-![Gambar aplikasi](https://lh3.googleusercontent.com/jqOnrE0QXqOYv222953H1nE8AU11tlQw9HcD2k63EEeNpUlF_9hh8L_e2pNTy6raNVk=s180)
-- Nama aplikasi yang dipilih: DKM Al Barokah
-- Playstore link: https://play.google.com/store/apps/details?id=com.dkmalbarokah.mab
-
-### Task 1: Evaluation of Existing App
-- Pick the app with fitting criteria
-- conduct an evaluation of the app in term of appearance
-and interaction control
-- Give reasoning why it isn’t pleasant or cumbersome to use
-- Pointed out the flaw in interaction control
-- Identify Key business use cases
-- The output of this task is key use cases, key activity diagrams, and
-narration
-
-Link task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/master/assignment%202/task%201/readme.md
-
-### Task 2: 
-
-Link task 2: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%202/task%202
