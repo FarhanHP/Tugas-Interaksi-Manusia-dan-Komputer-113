@@ -21,6 +21,8 @@ Discussion of why the app does having problem.
 
 Link: https://www.youtube.com/watch?v=k2Qk4EbRDjY
 
+Subtitle: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/hw2/task%202/subtitle/subtitle%20day%201.sbv
+
 ## Day 2 (Senin, 12 Oktober 2020)
 
 Two persons from your team are to works on competing design equipped with material design principle.
@@ -33,13 +35,17 @@ Each person to represent his/her design along with its navigation. At this stage
 
 Kami melibatkan 1 orang anggota kelompok kami yang tidak terlibat dalam desain dan dua orang yang di luar kelompok kami sebagai voter. Proses presentasi dan pemungutan suara dilakukan melalui aplikasi Zoom. Hasilnya desain 2 menang dengan perolehan suara 2:1. 
 
-Link: 
+Link: https://youtu.be/rehDc8OUpNs
+
+Subtitle: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/hw2/task%202/subtitle/subtitle%20day%203.sbv
 
 ## Day 4 (Rabu, 14 Oktober 2020)
 
 Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback.
 
-Link:
+Link: https://youtu.be/6BbduH6Kuts
+
+Subtitle: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/blob/hw2/task%202/subtitle/subtitle%20day%204.sbv
 
 ### Penjelasan penggunaan Google Material Design pada desain yang terpilih
 
