@@ -1,6 +1,6 @@
 # Task 2: Aplikasi DKM Al Baroqah
 
-## Tentang Developer
+## Tentang Developer DKM Al Baroqah
 ![foto bapak agi](foto%20bapak%20Agi.png)
 
 - Nama                : Bapak Agi (Kami lupa menanyakan nama lengkapnya)
@@ -8,7 +8,7 @@
 - Perusahaan          : Jayvyn-Host
 - Webiste perusahaan  : http://www.jayvyn-host.com/
 
-## Aplikasi yang Digunakan
+## Aplikasi desain yang Digunakan
 ![logo figma](https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png)
 
 - Nama                : Figma
