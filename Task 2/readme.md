@@ -5,4 +5,4 @@
 - Pekerjaan saat ini    : UI/UX Designer di Fore Coffee
 - portofolio            : https://xplodedbox.com/portfolio/
 - Linkedin              : https://www.linkedin.com/in/petrus-eric-xplodedbox/
-- Hasil wawancara       : https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%201/Task%202/interview%201
+- Hasil wawancara       : https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/hw1/Task%202/interview%201
