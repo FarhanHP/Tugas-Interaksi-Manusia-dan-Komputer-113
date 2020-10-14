@@ -42,4 +42,4 @@ Link task 1: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-11
 
 ### Task 2: 
 
-Link task 2:
+Link task 2: https://github.com/FarhanHP/Tugas-Interaksi-Manusia-dan-Komputer-113/tree/master/assignment%202/task%202
