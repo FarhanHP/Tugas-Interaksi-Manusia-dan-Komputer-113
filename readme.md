@@ -25,7 +25,7 @@ Berdasarkan wawancara tersebut dapat ditarik beberapa permintaan user yang harus
 
 Guru dapat menambahkan catatan murid siapa saja yang sudah membayar, serta murid atau orang tua murid dapat memantau apakah pembayaran sudah diterima oleh guru
 
-- Catatan riwayat bacaan anak
+- Catatan riwayat bacaan murid
 
 Guru dapat menambahkan riwayat bacaan Al-Quran/Iqra yang telah dilakukan murid pada satu pertemuan, misal: "Pada tanggal 10 November 2020, Murid A membaca Al-Quran, Surah Al-Baqarah ayat 1-20", serta murid atau orang dapat memantau sejauh mana muridnya sudah membaca Al-Quran/Iqra
 
