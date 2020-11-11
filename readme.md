@@ -7,11 +7,11 @@
 
 ## Assignment 3
 
-Nama web: SIMAS (Sistem Informasi Majelis Taklim Al-ikhlas)
+Nama web: SIPEMA (Sistem Informasi Pengajian Musholla Al-ikhlas)
 
 Tipe user: Fixed
 
-User: Pengajar serta murid pengajian yang tergabung dalam sebuah majelis taklim Mushola Al-Iklas. Yang beralamat gang U no.5 RT 11/10 Utan Kayu Utara, Matraman, Jakarta Timur
+User: Pengajar serta murid pengajian yang tergabung dalam sebuah pengajian di Mushola Al-Iklas. Yang beralamat gang U no.5 RT 11/10 Utan Kayu Utara, Matraman, Jakarta Timur
 
 ### 1st phase requirement gathering
 
@@ -19,7 +19,7 @@ proof: [wawancara_dengan_ibu_susi.m4a](proof/wawancara%20dengan%20ibu%20Susi.m4a
 
 #### Mini Report
 
-Berdasarkan wawancara tersebut dapat ditarik beberapa permintaan user yang harus diakomodasi oleh SIMAS:
+Berdasarkan wawancara tersebut dapat ditarik beberapa permintaan user yang harus diakomodasi oleh SIPEMA:
 
 - Catatan pembayaran
 
@@ -35,4 +35,4 @@ Guru dapat memasukan foto soal tugas, berikut menentukan batas waktu pengumpulan
 
 - Pengumuman
 
-Guru dapat menulis pengumuman yang berkaitan dengan kegiatan pengajian, sedangkan murid atau orang tua dapat memantau pengumuman tersebut melalui website SIMAS
+Guru dapat menulis pengumuman yang berkaitan dengan kegiatan pengajian, sedangkan murid atau orang tua dapat memantau pengumuman tersebut melalui website.
